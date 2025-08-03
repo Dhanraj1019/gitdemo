@@ -1,2 +1,2 @@
 # gitdemo
-This is an demo repository.
+This is an demo repository./
